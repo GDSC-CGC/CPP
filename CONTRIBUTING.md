@@ -7,8 +7,36 @@ Contribution Guidelines
 
 
 IMPORTANT: HOW TO ADD YOUR FILE
-You have to create a folder named: YOURROLLNO_taskno.
+
+
+You have to create a folder named in your computer: YOURROLLNO_taskno.
 And then add a file in the folder task1.cpp
 
 Example: I make a folder named:  2018908_task1
 and added a file in this folder task1.cpp
+
+
+Step 2: Click on the Star Button
+
+Step 3: Click on the Fork Button
+ And Create the Fork
+ 
+ Step 4: Go to Submission Folder
+ 
+ Step 5: Click on Add File
+ Then Create Files
+ 
+ Step 6: Name it: Rollno_task1 then / 
+ Eg: 2018908_task1 
+ 
+ Step 7: Type task1.cpp or task2.cpp
+ 
+ 
+ Step 8: Paste the code in the below session
+ Then Commit New File
+ 
+ Step 9: Click on 1 commit ahead and then create pull request.
+ 
+ Step 10: Yay!! You did a contribution.
+ 
+ 
