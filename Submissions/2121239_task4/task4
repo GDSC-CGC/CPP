@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+int sum(int a){
+    int k=0;
+    for(int i=1;i<=a;i++)
+    k=k+i;
+    return k;
+
+}
+
+int main()
+{
+   int a,b;
+   cout<<"enter the no up to which you want the sum"<<endl;
+   cin>>a;
+    b=sum(a);
+    cout<<"the sum up to "<<a<<" is: "<<b<<endl;
+    return 0;
+}
